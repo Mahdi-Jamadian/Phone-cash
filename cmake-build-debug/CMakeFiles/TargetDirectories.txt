@@ -1,0 +1,3 @@
+G:/project/C/Phone cash/cmake-build-debug/CMakeFiles/Phone_cash.dir
+G:/project/C/Phone cash/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/Phone cash/cmake-build-debug/CMakeFiles/rebuild_cache.dir
